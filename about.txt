@@ -1,1 +1,2 @@
 Repository ini berisi materi dan source code pemrograman web prodi teknik informatika um gresik
+Untuk periode Genap 2024/2025
